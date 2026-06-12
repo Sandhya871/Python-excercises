@@ -20,7 +20,7 @@ while time<=0:
 total = principle * pow((1 + rate / 100),time)
 print(f"Balance after {time} years/s: Rs {total:.3f}")
 
-**OUTPUT**
+# OUTPUT
 Enter the principle amount: 1000
 Enter the interest rate: 9
 Enter the time in years: 10
