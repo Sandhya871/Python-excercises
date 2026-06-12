@@ -1,11 +1,11 @@
 # Python-excercises
-Python learning repository containing coding exercises, problem-solving programs, and mini projects built to strengthen programming fundamentals, logical thinking, and software development skills.
+Python learning repository containing coding exercises, problem-solving programs built to strengthen programming fundamentals, logical thinking, and software development skills.
 
-# Python Exercises and Mini Projects
+# Python Exercises 
 
 ## Overview
 
-This repository contains a collection of Python exercises, coding challenges, and mini projects created while learning and practicing Python programming. The programs cover fundamental concepts, problem-solving techniques, and practical applications to strengthen programming skills and logical thinking.
+This repository contains a collection of Python exercises, coding challenges created while learning and practicing Python programming. The programs cover fundamental concepts, problem-solving techniques, and practical applications to strengthen programming skills and logical thinking.
 
 ## Topics Covered
 
@@ -21,31 +21,6 @@ This repository contains a collection of Python exercises, coding challenges, an
 * Modules and Packages
 * Problem Solving and Algorithms
 
-## Repository Structure
-
-```text
-Python-Exercises/
-│
-├── Basics/
-├── Loops/
-├── Functions/
-├── Data_Structures/
-├── OOP/
-├── File_Handling/
-├── Mini_Projects/
-└── Practice_Problems/
-```
-
-## Sample Programs
-
-* Compound Interest Calculator
-* Student Grade Calculator
-* Number Guessing Gams
-* To-Do List Application
-* Calculator Programs
-* Pattern Printing Programs
-* File Management Programs
-
 ## Purpose
 
 The purpose of this repository is to:
@@ -59,12 +34,10 @@ The purpose of this repository is to:
 
 * Python 3
 * VS Code
-* Git
-* GitHub
 
 ## Learning Journey
 
-This repository is continuously updated with new exercises, coding challenges, and mini projects as part of my Python learning journey.
+This repository is continuously updated with new exercises, coding challenges as part of my Python learning journey.
 
 ## Author
 
