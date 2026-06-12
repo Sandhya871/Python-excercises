@@ -1,7 +1,5 @@
-# Python-excercises
+# Python-Exercises
 Python learning repository containing coding exercises, problem-solving programs built to strengthen programming fundamentals, logical thinking, and software development skills.
-
-# Python Exercises 
 
 ## Overview
 
